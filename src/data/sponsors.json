@@ -1,6 +1,40 @@
 [
   {
     "sponsor": {
+      "name": "Yarn",
+      "type": "Organization",
+      "login": "yarn1",
+      "avatarUrl": "https://images.opencollective.com/yarn1/logo/460.png",
+      "websiteUrl": "https://yarn.so",
+      "linkUrl": "https://opencollective.com/yarn1",
+      "socialLogins": {
+        "opencollective": "yarn1"
+      }
+    },
+    "isOneTime": false,
+    "monthlyDollars": 1000,
+    "privacyLevel": "PUBLIC",
+    "tierName": "Gold++ Sponsor"
+  },
+  {
+    "sponsor": {
+      "name": "CryptoCasino Guide - No KYC",
+      "type": "Organization",
+      "login": "cryptocasino-guide-no-kyc",
+      "avatarUrl": "https://images.opencollective.com/cryptocasino-guide-no-kyc/80594b3/logo/460.png",
+      "websiteUrl": "https://cryptocasino-guide.com/casino-sans-kyc",
+      "linkUrl": "https://opencollective.com/cryptocasino-guide-no-kyc",
+      "socialLogins": {
+        "opencollective": "cryptocasino-guide-no-kyc"
+      }
+    },
+    "isOneTime": false,
+    "monthlyDollars": 100,
+    "privacyLevel": "PUBLIC",
+    "tierName": "Bronze Sponsor"
+  },
+  {
+    "sponsor": {
       "name": "Casino Online C19",
       "type": "User",
       "login": "casino-online-chile",
@@ -43,23 +77,6 @@
       "linkUrl": "https://opencollective.com/buy-instagram-likes-views4you",
       "socialLogins": {
         "opencollective": "buy-instagram-likes-views4you"
-      }
-    },
-    "isOneTime": false,
-    "monthlyDollars": 100,
-    "privacyLevel": "PUBLIC",
-    "tierName": "Bronze Sponsor"
-  },
-  {
-    "sponsor": {
-      "name": "LITSLINK",
-      "type": "Organization",
-      "login": "litslink",
-      "avatarUrl": "https://images.opencollective.com/litslink/18dd55f/logo/460.png",
-      "websiteUrl": "https://litslink.com",
-      "linkUrl": "https://opencollective.com/litslink",
-      "socialLogins": {
-        "opencollective": "litslink"
       }
     },
     "isOneTime": false,
